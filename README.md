@@ -10,9 +10,9 @@
     <a href="https://www.linkedin.com/in/MahipalMalviya">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
-<!--     <a href="https://www.kaggle.com/MahipalMalviya">
-        <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle" alt="Kaggle">
-    </a> -->
+    <a href="https://www.hackerrank.com/mahimalviya3215">
+        <img src="https://img.shields.io/badge/HackerRank-blue?style=flat-square&logo=hackerrank" alt="HackerRank">
+    </a>
     <a href="https://leetcode.com/MahipalMalviya">
         <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
     </a>
