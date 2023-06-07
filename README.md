@@ -4,17 +4,16 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Mahipal.<br>
-        Currently learning Spring boot.<br>
-        Open to collaborating on interesting and innovative projects.<br>
+        Currently learning Jetpack Compose.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/MahipalMalviya">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
     </a>
     <a href="https://www.hackerrank.com/mahimalviya3215">
-        <img src="https://img.shields.io/badge/HackerRank-blue?style=flat-square&logo=hackerrank" alt="HackerRank">
+        <img src="https://img.shields.io/badge/HackerRank-blue?style=flat-square&logo=hackerrank" alt="HackerRank" />
     </a>
     <a href="https://leetcode.com/MahipalMalviya">
-        <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
+        <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode" />
     </a>
 </p>
 
@@ -31,22 +30,21 @@
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/MahipalMalviya)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/MahipalMalviya)
 
-
 <details>
-<p align="center">
-  <a href="https://github.com/MahipalMalviya">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahipalMalviya&theme=transparent" />
-  </a>
-  <a href="https://github.com/MahipalMalviya">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahipalMalviya&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/MahipalMalviya">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MahipalMalviya&theme=transparent" />
-  </a>
-  <a href="https://github.com/MahipalMalviya">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahipalMalviya&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
-  </a>
-</p>
+    <p align="center">
+      <a href="https://github.com/MahipalMalviya">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahipalMalviya&theme=transparent" />
+      </a>
+      <a href="https://github.com/MahipalMalviya">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahipalMalviya&hide_border=true&card_width=338&theme=transparent" />
+      </a>
+      <a href="https://github.com/MahipalMalviya">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MahipalMalviya&theme=transparent" />
+      </a>
+      <kbd><a href="https://github.com/MahipalMalviya">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahipalMalviya&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&card_width=699&hide_border=true&theme=transparent" />
+      </a></kbd>
+    </p>
 </details>
 
 <p align="center">
@@ -54,3 +52,4 @@
     <img src="https://komarev.com/ghpvc/?username=MahipalMalviya&color=blue&style=flat)" />
   </a>
 </p>
+
