@@ -28,6 +28,7 @@
 
 ### Technologies & Frameworks
 [![Spring](https://img.shields.io/badge/spring-black?style=for-the-badge&logo=spring)](https://github.com/MahipalMalviya)
+[![Compose](https://img.shields.io/badge/Compose-black?style=for-the-badge&logo=compose)](https://github.com/MahipalMalviya)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/MahipalMalviya)
