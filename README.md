@@ -15,6 +15,9 @@
     <a href="https://leetcode.com/Mahipal123">
         <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode" />
     </a>
+    <a href="https://mahipalmalviya.github.com">
+        <img src="https://img.shields.io/badge/Github-blue?style=flat-square&logo=Github" alt="LeetCode" />
+    </a>
 </p>
 
 ### Languages
