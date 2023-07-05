@@ -4,7 +4,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Mahipal.<br>
-        Currently learning Jetpack Compose.<br>
+        Currently learning Spring Microservices.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/Mahipal-Malviya">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
