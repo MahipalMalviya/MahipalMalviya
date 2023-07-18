@@ -4,7 +4,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Mahipal.<br>
-        Currently learning Spring Microservices.<br>
+        Currently learning JavaScript.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/Mahipal-Malviya">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
@@ -24,9 +24,10 @@
 [![Kotlin](https://img.shields.io/badge/kotlin-black?style=for-the-badge&logo=kotlin)](https://github.com/MahipalMalviya)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=java)](https://github.com/MahipalMalviya)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/MahipalMalviya)
-
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/MahipalMalviya)
 
 ### Technologies & Frameworks
+[![Android](https://img.shields.io/badge/android-black?style=for-the-badge&logo=android)](https://github.com/MahipalMalviya)
 [![Spring](https://img.shields.io/badge/spring-black?style=for-the-badge&logo=spring)](https://github.com/MahipalMalviya)
 [![Compose](https://img.shields.io/badge/Compose-black?style=for-the-badge&logo=compose)](https://github.com/MahipalMalviya)
 
