@@ -4,7 +4,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Mahipal.<br>
-        Currently learning JavaScript.<br>
+        Currently learning Node.js<br>
     </i><br>
     <a href="https://www.linkedin.com/in/Mahipal-Malviya">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
@@ -29,7 +29,8 @@
 ### Technologies & Frameworks
 [![Android](https://img.shields.io/badge/android-black?style=for-the-badge&logo=android)](https://github.com/MahipalMalviya)
 [![Spring](https://img.shields.io/badge/spring-black?style=for-the-badge&logo=spring)](https://github.com/MahipalMalviya)
-[![Compose](https://img.shields.io/badge/Compose-black?style=for-the-badge&logo=compose)](https://github.com/MahipalMalviya)
+[![Compose](https://img.shields.io/badge/compose-black?style=for-the-badge&logo=compose)](https://github.com/MahipalMalviya)
+[![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)](https://github.com/MahipalMalviya)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/MahipalMalviya)
